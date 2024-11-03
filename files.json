@@ -1,0 +1,16 @@
+[
+    {
+        "FileID": 1,
+        "FileName": "game.exe",
+        "FilePath": "C:/Game/game.exe",
+        "FileHash": "abcd1234",
+        "ToUpdate": false
+    },
+    {
+        "FileID": 2,
+        "FileName": "config.ini",
+        "FilePath": "C:/Game/config.ini",
+        "FileHash": "efgh5678",
+        "ToUpdate": false
+    }
+]
